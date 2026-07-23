@@ -52,13 +52,13 @@ scikit-learn	Feature scaling (StandardScaler), encoding, and train/test partitio
 matplotlib / seaborn	Exploratory visualizations including distribution plots and class balance charts
 VS Code	Local development environment
 
-### Repository Structure
-\\\student-performance-preprocessing/
+## Repository Structure
+student-performance-preprocessing/
 │
 ├── data/
-│   ├── raw/                          # Original unmodified dataset
+│   ├── raw/                        # Original unmodified dataset
 │   │   └── student_data_raw.csv
-│   └── processed/                    # Cleaned and scaled output datasets
+│   └── processed/                  # Cleaned and scaled output datasets
 │       ├── X_train_scaled.csv
 │       ├── X_test_scaled.csv
 │       ├── y_train.csv
@@ -69,12 +69,11 @@ VS Code	Local development environment
 │   └── 01_data_preprocessing.ipynb  # Main preprocessing pipeline notebook
 │
 ├── src/
-│   └── __init__.py                   # Reserved for modular script expansion
+│   └── __init__.py                 # Reserved for modular script expansion
 │
-├── .gitignore                        # Excludes sensitive and unnecessary files
-├── requirements.txt                  # Python dependency list
-└── README.md                         # Project overview and usage guide
-\\\
+├── .gitignore                      # Excludes sensitive and unnecessary files
+├── requirements.txt                # Python dependency list
+└── README.md                       # Project overview and usage guide
 
 
 ## How to Run
