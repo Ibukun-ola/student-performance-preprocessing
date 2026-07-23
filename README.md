@@ -45,13 +45,14 @@ The preprocessing pipeline follows a deliberate, sequential structure where each
 
 ## Technologies Used
 ```
-Tool / Library	Purpose
-Python 3	Core programming language for pipeline execution
-pandas	Data manipulation, missing value handling, and tabular transformations
-NumPy	Vectorized numerical operations and array transformations
-scikit-learn	Feature scaling (StandardScaler), encoding, and train/test partitioning
-matplotlib / seaborn	Exploratory visualizations including distribution plots and class balance charts
-VS Code	Local development environment
+| Tool / Library | Purpose |
+| :--- | :--- |
+| **Python 3** | Core programming language for pipeline execution |
+| **pandas** | Data manipulation, missing value handling, and tabular transformations |
+| **NumPy** | Vectorized numerical operations and array transformations |
+| **scikit-learn** | Feature scaling (`StandardScaler`), encoding, and train/test partitioning |
+| **matplotlib / seaborn** | Exploratory visualizations including distribution plots and class balance charts |
+| **VS Code** | Local development environment |
 ```
 
 ## Repository Structure
