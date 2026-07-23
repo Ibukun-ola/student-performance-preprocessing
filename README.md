@@ -53,7 +53,7 @@ matplotlib / seaborn	Exploratory visualizations including distribution plots and
 VS Code	Local development environment
 
 ### Repository Structure
-student-performance-preprocessing/
+'''student-performance-preprocessing/
 │
 ├── data/
 │   ├── raw/                          # Original unmodified dataset
@@ -74,6 +74,7 @@ student-performance-preprocessing/
 ├── .gitignore                        # Excludes sensitive and unnecessary files
 ├── requirements.txt                  # Python dependency list
 └── README.md                         # Project overview and usage guide
+'''
 
 ## How to Run
 ### 1. Clone the repository
