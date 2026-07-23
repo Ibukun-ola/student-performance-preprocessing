@@ -45,7 +45,7 @@ The preprocessing pipeline follows a deliberate, sequential structure where each
 
 ## Technologies Used
 ```
-Tool	Purpose
+Tool / Library	Purpose
 Python 3	Core programming language for pipeline execution
 pandas	Data manipulation, missing value handling, and tabular transformations
 NumPy	Vectorized numerical operations and array transformations
