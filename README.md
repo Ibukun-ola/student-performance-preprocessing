@@ -53,7 +53,7 @@ matplotlib / seaborn	Exploratory visualizations including distribution plots and
 VS Code	Local development environment
 
 ### Repository Structure
-'''student-performance-preprocessing/
+\\\student-performance-preprocessing/
 │
 ├── data/
 │   ├── raw/                          # Original unmodified dataset
@@ -74,29 +74,7 @@ VS Code	Local development environment
 ├── .gitignore                        # Excludes sensitive and unnecessary files
 ├── requirements.txt                  # Python dependency list
 └── README.md                         # Project overview and usage guide
-'''
-
-student-performance-preprocessing/
-│
-├── data/
-│   ├── raw/
-│   │   └── student_data_raw.csv
-│   └── processed/
-│       ├── X_train_scaled.csv
-│       ├── X_test_scaled.csv
-│       ├── y_train.csv
-│       ├── y_test.csv
-│       └── processed_student_dataset.xlsx
-│
-├── notebooks/
-│   └── 01_data_preprocessing.ipynb
-│
-├── src/
-│   └── __init__.py
-│
-├── .gitignore
-├── requirements.txt
-└── README.md
+\\\
 
 
 ## How to Run
