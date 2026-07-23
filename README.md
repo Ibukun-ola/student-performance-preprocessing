@@ -1,12 +1,9 @@
 # Student Academic Performance Data Preprocessing Pipeline
 ## A Reproducible Workflow for Machine Learning Readiness
-
-This project implements an end-to-end data preprocessing pipeline that transforms raw student academic records into a clean, structured, and machine-learning-ready dataset. It systematically identifies and resolves common real-world data quality issues — including missing values, duplicate records, inconsistent categorical formatting, and incorrect data types — that would otherwise compromise the reliability of any downstream predictive model.
-
+This project implements an end-to-end data preprocessing pipeline that transforms raw student academic records into a clean, structured, and machine-learning-ready dataset. It systematically identifies and resolves common real-world data quality issues; including missing values, duplicate records, inconsistent categorical formatting, and incorrect data types, that would otherwise compromise the reliability of any downstream predictive model.
 The pipeline is designed as a reproducible, well-documented workflow suitable for data science students, data professionals, and recruiters seeking clean portfolio-grade code that reflects industry preprocessing standards.
 
 ### Dataset Description
-
 The dataset was provided as part of a university coursework assignment (NUTDTS 815 — Data Exploration and Preprocessing, NUTM). Each row represents a unique student record, with the dataset containing 525 entries across 9 features spanning demographic, behavioral, and academic attributes.
 
 ### Column	Description
