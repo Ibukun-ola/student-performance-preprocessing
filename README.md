@@ -44,6 +44,7 @@ The preprocessing pipeline follows a deliberate, sequential structure where each
 - Validate & Export — Confirm pipeline integrity and save processed datasets to CSV and Excel formats
 
 ## Technologies Used
+```
 Tool	Purpose
 Python 3	Core programming language for pipeline execution
 pandas	Data manipulation, missing value handling, and tabular transformations
@@ -51,8 +52,10 @@ NumPy	Vectorized numerical operations and array transformations
 scikit-learn	Feature scaling (StandardScaler), encoding, and train/test partitioning
 matplotlib / seaborn	Exploratory visualizations including distribution plots and class balance charts
 VS Code	Local development environment
+```
 
-``` ## Repository Structure
+## Repository Structure
+```
 student-performance-preprocessing/
 │
 ├── data/
